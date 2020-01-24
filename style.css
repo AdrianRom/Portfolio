@@ -1,0 +1,29 @@
+/* .mainText {
+    background-image: url(images/backgroundpic.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    position: fixed; */
+/* } */
+body {
+    background-image: url(images/backgroundpic.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    position: absolute;
+}
+h1 {
+    margin-left: 80px;
+    margin-top: 40px;
+    color: whitesmoke;
+    font-weight: 100;
+}
+.contactForm {
+    margin-left: 40px;
+}
+.textForboxes {
+    color: whitesmoke;
+}
+.Cardrow {
+    margin-top: 550px;
+}
